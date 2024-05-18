@@ -1,0 +1,22 @@
+{
+  "configs": [
+    {
+      "name": "Configuração 1",
+      "setting1": "value1",
+      "setting2": "value2",
+      "setting3": "value3"
+    },
+    {
+      "name": "Configuração 2",
+      "setting1": "value4",
+      "setting2": "value5",
+      "setting3": "value6"
+    },
+    {
+      "name": "Configuração 3",
+      "setting1": "value7",
+      "setting2": "value8",
+      "setting3": "value9"
+    }
+  ]
+}
