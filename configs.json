@@ -1,22 +1,12 @@
 {
-  "configs": [
+  "systems": [
     {
-      "name": "Configuração 1",
-      "setting1": "value1",
-      "setting2": "value2",
-      "setting3": "value3"
-    },
-    {
-      "name": "Configuração 2",
-      "setting1": "value4",
-      "setting2": "value5",
-      "setting3": "value6"
-    },
-    {
-      "name": "Configuração 3",
-      "setting1": "value7",
-      "setting2": "value8",
-      "setting3": "value9"
+      "name": "MainSystem",
+      "serviceName": "principalsystem",
+      "updateFiles": [
+        "https://raw.githubusercontent.com/MRvinyKing/Cexp/main/Teste_004_-_22-04-24.exe",
+        "https://raw.githubusercontent.com/MRvinyKing/Cexp/main/Teste_004_-_22-04-24.exe.config"
+      ]
     }
   ]
 }
