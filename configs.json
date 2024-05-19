@@ -1,5 +1,5 @@
 {
-  "systems": [
+  "configs": [
     {
       "name": "MainSystem",
       "serviceName": "principalsystem",
