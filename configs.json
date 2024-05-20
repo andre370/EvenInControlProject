@@ -1,12 +1,8 @@
 {
-  "configs": [
-    {
-      "name": "MainSystem",
-      "serviceName": "principalsystem",
-      "updateFiles": [
-        "https://raw.githubusercontent.com/MRvinyKing/Cexp/main/Teste_004_-_22-04-24.exe",
-        "https://raw.githubusercontent.com/MRvinyKing/Cexp/main/Teste_004_-_22-04-24.exe.config"
-      ]
-    }
+  "name": "MainSystem",
+  "serviceName": "principalsystem",
+  "updateFiles": [
+    "https://raw.githubusercontent.com/MRvinyKing/Cexp/main/Teste_004_-_22-04-24.exe",
+    "https://raw.githubusercontent.com/MRvinyKing/Cexp/main/Teste_004_-_22-04-24.exe.config"
   ]
 }
