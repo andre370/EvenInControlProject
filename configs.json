@@ -1,4 +1,5 @@
 {
+  "logLevel": 4,
   "App1SVCkey": "servicolog",
   "App2SVCkey": "servicolog2",
   "App1LinksFiles": [
