@@ -2,7 +2,7 @@
   "logLevel": 4,
   "UpdateTimerInterval": 10000,
   "App1SVCkey": "servicolog",
-  "App2SVCkey": "servicolog2",
+  "App2SVCkey": "servicolog",
   "App1LinksFiles": [
     "https://raw.githubusercontent.com/MRvinyKing/Cexp/main/Teste_004_-_22-04-24.exe",
     "https://raw.githubusercontent.com/MRvinyKing/Cexp/main/Teste_004_-_22-04-24.exe.config"
