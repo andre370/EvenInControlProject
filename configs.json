@@ -1,5 +1,5 @@
 {
-  "logLevel": 4,
+  "logLevel": 2,
   "UpdateTimerInterval": 10000,
   "App1SVCkey": "servicolog",
   "App2SVCkey": "servicolog",
