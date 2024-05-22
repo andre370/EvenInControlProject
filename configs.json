@@ -1,6 +1,6 @@
 {
   "logLevel": 3,
-  "UpdateTimerInterval": 120000,
+  "UpdateTimerInterval": 60000,
   "App1LinksFiles": [
     "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost_test.exe",
     "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost_test.exe.config"
