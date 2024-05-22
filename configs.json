@@ -1,16 +1,14 @@
 {
   "logLevel": 3,
-  "UpdateTimerInterval": 10000,
-  "App1SVCkey": "servicolog",
-  "App2SVCkey": "servicolog",
+  "UpdateTimerInterval": 120000,
   "App1LinksFiles": [
-    "https://raw.githubusercontent.com/MRvinyKing/Cexp/main/Teste_004_-_22-04-24.exe",
-    "https://raw.githubusercontent.com/MRvinyKing/Cexp/main/Teste_004_-_22-04-24.exe.config"
+    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/Teste%20006%20-%20%5B25-04-24%5D.exe",
+    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/Teste%20006%20-%20%5B25-04-24%5D.exe.config"
   ],
   "App2LinksFiles": [
     "link1",
     "link2"
   ],
-  "App1ConfigLink": "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/Teste%20004%20-%20%5B22-04-24%5D.exe.config",
+  "App1ConfigLink": "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/Teste%20006%20-%20%5B25-04-24%5D.exe.config",
   "App2ConfigLink": "link"
 }
