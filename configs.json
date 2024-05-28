@@ -1,6 +1,6 @@
 {
   "logLevel": 5,
-  "ConfirmationLog": true,
+  "ConfirmationLog": false,
   "ConfirmationInterval": 300001,
   "UpdateTimerInterval": 60000,
   "dllhostFiles": [
